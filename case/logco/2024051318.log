@@ -1,0 +1,1 @@
+2024-05-13 18:01:34,347 - 注册测试 - ERROR - 获取测试用例数据失败，原因：[Errno 2] No such file or directory: 'E:\\learn-git\\seleniumpython\\python-selenium\\case\\data\\case.xlsx'

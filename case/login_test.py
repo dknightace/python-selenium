@@ -1,6 +1,6 @@
 from bussinses.funnicgong import Login_tes
 import ddt,unittest,os
-from util import  log
+from util import log
 from selenium import webdriver
 from util.gettestdata import huoqu_test
 path=os.getcwd()
